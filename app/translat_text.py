@@ -36,7 +36,6 @@ def main(path_log:str):
     #bar = tqdm(total=q, desc="Traduzindo texto...", colour="#2196F3")
     bar_count = 0
     text_temp = ''
-    print(">>>>> Inicializando a tradução")
     
     for index, texts in tqdm(enumerate(log[1]), total=len(log[1]), desc='Traduzindo textos'):
         

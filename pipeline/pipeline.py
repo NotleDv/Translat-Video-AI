@@ -12,7 +12,6 @@ import torch
 from app.detect_speech import main
 from app.configs import write_json
 import time
-
 from pipeline.utils import suprimir_avisos_gerais
 
 
@@ -97,8 +96,7 @@ def pipeline(path_log:str, dir_:str, file:str):
     bar.update(15)
     
     resultado = finish(path_log, path_video_temp, dir_)
-    return resultado
-        
+    return resultado 
 
 def extensoes_mime():
     extensoes = {}
@@ -145,7 +143,7 @@ def main():
     time_in = time.time()
     with TemporaryDirectory() as dir_:
         pasta = input('Digite o path da pasta: ')
-        print(dir_)
+        #print(dir_)
         
         # Criação das pastas auxiliares
         path_log = os.path.join(dir_, 'log.json')
@@ -215,7 +213,7 @@ def main():
                                 dir_ = dir_, 
                                 path = input_[0]['path_temp'], 
                                 file = name_video) 
-            print(dir_)
+            #print(dir_)
             
             result = pipeline(path_log = path_log,
                               dir_ = dir_, 
