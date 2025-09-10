@@ -43,6 +43,11 @@ Este projeto foi desenvolvido para fins estudantis, focando no uso prático de S
    sudo apt update
    sudo apt install ffmpeg
   ```
+### Instalação do rubberband-cli no Linux:
+  ```sh
+   sudo apt update
+   sudo apt install rubberband-cli
+  ```
 ---
 
 ## ⚙️ Instalação
@@ -53,7 +58,7 @@ Este projeto foi desenvolvido para fins estudantis, focando no uso prático de S
     ```
 2. **Navegue até o diretório do projeto:**
     ```sh
-    cd Video-Translator
+    cd Translat-Video-AI
     ```
 3. **Crie e ative o ambiente virtual principal:**
    ```sh
@@ -109,7 +114,7 @@ https://github.com/user-attachments/assets/cd3ba3d2-0886-4d87-9760-9f002757ed7e
 
 1. **Navegue até o diretório do projeto:**
     ```sh
-    cd Video-Translator
+    cd Translat-Video-AI
     ```
 2. **Acesse o .venv:**
     ```sh
