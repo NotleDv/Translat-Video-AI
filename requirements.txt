@@ -1,0 +1,16 @@
+numpy==1.26.2
+torch==2.8.0  
+ffmpeg-python 
+imageio_ffmpeg
+librosa
+pyrubberband
+soundfile
+tqdm 
+transformers==4.34.0
+openai-whisper
+pydub
+spleeter
+moviepy
+python-magic
+sentencepiece==0.2.1
+kokoro>=0.9.4
