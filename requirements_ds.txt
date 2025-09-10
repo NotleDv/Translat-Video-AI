@@ -1,4 +1,4 @@
-ffmpeg==1.4
+ffmpeg-python == 0.2.0
 imageio_ffmpeg==0.6.0
 
 pyannote.audio==3.3.2
