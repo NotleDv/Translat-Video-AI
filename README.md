@@ -36,7 +36,7 @@ Este projeto foi desenvolvido para fins estudantis, focando no uso prático de S
 
 ### Instalação do UV no Linux ou macOS:
   ```sh
-   curl -LsSf https://astral.sh/uv/install.sh | sh
+   curl -LsSf https://astral.sh/uv/0.8.15/install.sh | sh
   ```
 ### Instalação do FFmpeg no Linux:
   ```sh
