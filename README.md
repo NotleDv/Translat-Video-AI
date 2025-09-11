@@ -95,23 +95,6 @@ Esta ação deve ser feita antes de rodar o projeto.
 
 ---
 
-## 🧪 Vídeo demonstrativo
-
-### 🎞️ **Vídeo original**. [Disponível aqui](https://youtu.be/mVYgtzDLZfY?si=PkiNz47DOFW80PyX)
- 
-https://github.com/user-attachments/assets/3df87e5e-291b-448f-8587-339b12dbc8ed
-
-
-### ⭐ **Vídeo dublado**.
-
-https://github.com/user-attachments/assets/cd3ba3d2-0886-4d87-9760-9f002757ed7e
-
-
-
-
-
----
-
 ## 💻 Como Utilizar
 
 1. **Navegue até o diretório do projeto:**
@@ -127,7 +110,21 @@ https://github.com/user-attachments/assets/cd3ba3d2-0886-4d87-9760-9f002757ed7e
     python -m pipeline.pipeline
     ```
 
+
 ---
+
+## 🧪 Vídeo demonstrativo
+
+### 🎞️ **Vídeo original**. [Disponível aqui](https://youtu.be/mVYgtzDLZfY?si=PkiNz47DOFW80PyX)
+ 
+https://github.com/user-attachments/assets/3df87e5e-291b-448f-8587-339b12dbc8ed
+
+
+### ⭐ **Vídeo dublado**.
+
+https://github.com/user-attachments/assets/cd3ba3d2-0886-4d87-9760-9f002757ed7e
+
+
 
 ## 🏅 Créditos SLM
 
